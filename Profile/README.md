@@ -3,10 +3,7 @@
 ## Progress:
 
 Modmail Plugins: 
-![](https://geps.dev/progress/100)
+![](https://geps.dev/progress/100) (Need to upload everything)
 
 Utilities Commands/Stuff:
-![](https://geps.dev/progress/50)
-
-BYS Commands:
-![](https://geps.dev/progress/25)
+![](https://geps.dev/progress/50) (May not work on anymore)
